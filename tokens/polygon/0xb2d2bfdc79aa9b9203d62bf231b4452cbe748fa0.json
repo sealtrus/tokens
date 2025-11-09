@@ -1,0 +1,13 @@
+{
+  "name": "Sealtrus",
+  "symbol": "SLTR",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Sealtrus (SLTR) is a blockchain-based trust and verification token that powers on-chain business validation, credential proof, and reputation systems. Businesses and professionals use Sealtrus to earn verified badges and trust scores anchored on the Polygon blockchain — bringing transparency, credibility, and trust to the digital economy.",
+  "website": "https://sealtrus.com",
+  "explorer": "https://polygonscan.com/token/0xB2d2BfdC79Aa9B9203D62bF231b4452CBe748fa0",
+  "status": "active",
+  "id": "0xB2d2BfdC79Aa9B9203D62bF231b4452CBe748fa0",
+  "logoURI": "https://sealtrus.com/wp-content/uploads/2025/11/icon.png",
+  "tags": ["trust", "verification", "business", "credentials"]
+}
